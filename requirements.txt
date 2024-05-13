@@ -1,0 +1,5 @@
+ipykernel
+llama-index
+openai
+pypdf
+python-dotenv
